@@ -2,7 +2,7 @@
   <img 
     src="./assets/banner.jpg"
     alt="Banner"
-    style="max-width: 350px; width: 100%; border-radius: 12px;"
+    style="max-width: 250px; width: 100%; border-radius: 12px;"
   />
 </p>
 
@@ -10,6 +10,6 @@
   <img 
     src="./assets/texto-animado.svg"
     alt="Seja bem vindo ao meu perfil"
-    style="max-width: 350px; width: 100%;"
+    style="max-width: 250px; width: 100%;"
   />
 </p>
