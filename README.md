@@ -1,10 +1,5 @@
 <p align="center">
-  <img 
-    src="./assets/banner.jpg" 
-    alt="Banner" 
-    width="350" 
-    style="border-radius: 12px;"
-  />
+  <img src="./assets/jpdev-banner.svg" alt="João Pedro Rocha | JpDev | Full Stack + AI Engineer" width="100%" />
 </p>
 
 <p align="center">
