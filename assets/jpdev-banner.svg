@@ -81,7 +81,7 @@
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.666;0.69;0.98;1" dur="12s" repeatCount="indefinite"/>
       <text x="400" y="100" class="sans" font-size="50" fill="url(#metal)" stroke="#444" stroke-width="0.6" text-anchor="middle">Full Stack + AI Engineer</text>
       <text x="400" y="100" class="sans" font-size="50" fill="url(#shine)" text-anchor="middle">Full Stack + AI Engineer</text>
-      <text x="400" y="145" class="mono" font-size="15" fill="#aaa" text-anchor="middle">AI Agents · MCP · RAG · Mentor @ Vibe Code</text>
+      <text x="400" y="145" class="mono" font-size="15" fill="#aaa" text-anchor="middle">AI Agents · MCP · RAG · AI Tools Instructor · ADS @ Estácio</text>
     </g>
   </g>
   <rect x="0.5" y="0.5" width="799" height="199" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
