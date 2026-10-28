@@ -18,6 +18,7 @@
 | Projeto | O que é | Stack |
 |---|---|---|
 | [**PRUMO**](https://prumodev.com) | App desktop próprio, à venda em prumodev.com. Reúne projetos, sessões e terminais de agentes de código (Codex, Claude Code, AGY) e retoma o trabalho com o agente que começou. | Electron · React · TypeScript · Express · PostgreSQL · Docker Swarm |
+| [**TenantPay Billing**](https://github.com/Joao-Pedro-AI-Visionary/tenantpay-billing) · [demo](https://tenantpay-billing.vercel.app) | API multi-tenant de pagamentos e assinaturas, com webhooks idempotentes, testes de integração com Testcontainers e painel em Vue. | Java 21 · Spring Boot 3 · PostgreSQL · Vue |
 | [**vjp-harness**](https://github.com/Joao-Pedro-AI-Visionary/vjp-harness) | Harness de engenharia para agentes de código: specs, TDD, gates de verificação e pré-push em camadas. | Agentes de IA · Specs · TDD |
 | [**MeetingForge**](https://github.com/Joao-Pedro-AI-Visionary/MeetingForge) | Transcreve reuniões, extrai tópicos e gera tasks para agentes de IA com Whisper local. | Python · Whisper |
 | [**finflow-laravel-vue**](https://github.com/Joao-Pedro-AI-Visionary/finflow-laravel-vue) | Fluxo de caixa full stack com motor de regras idempotente para extratos CSV. | Laravel · Vue 3 |
@@ -50,6 +51,8 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
